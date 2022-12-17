@@ -1,0 +1,16 @@
+{
+  "name": "test_portfolio",
+  "version": "1.0.0",
+  "description": "a personal portfolio",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "Essie Lee",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.0.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
